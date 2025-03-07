@@ -14,15 +14,23 @@ nav{
 
 .navLinks{
     min-width: 100px;
-    width: 20%;
+    width: 40%;
     display: flex;
     justify-content: space-evenly;
+    gap: 20px;
 }
 
 .navLinks a{
     text-decoration: none;
+    color:black;
+}
+
+.navLinks a:hover {
+    color: hotpink;
+    transform: scale(1.1);
 }
 
 .navLinks .active{
     color: hotpink;
+    font-weight: bold;
 }

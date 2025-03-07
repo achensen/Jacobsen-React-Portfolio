@@ -4,6 +4,7 @@ import './style.css'
 const MainPage = () => {
   return (
     <main>MainPage</main>
+    
   )
 }
 
