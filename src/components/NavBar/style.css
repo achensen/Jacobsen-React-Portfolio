@@ -1,0 +1,28 @@
+nav{
+    width: 100vw;
+    height: 80px;
+    background-color: aqua;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navLogo{
+    margin-left: 30px;
+    font-size: 20px;
+}
+
+.navLinks{
+    min-width: 100px;
+    width: 20%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.navLinks a{
+    text-decoration: none;
+}
+
+.navLinks .active{
+    color: hotpink;
+}
