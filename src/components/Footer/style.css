@@ -5,3 +5,20 @@
     padding: 20px 0;
     text-align: center;
 }
+
+.socialLinks {
+    display: flex;
+    gap: 30px; /* Increases space between icons */
+    justify-content: center;
+    align-items: center;
+}
+
+.socialLinks a {
+    color: teal; /* Sets icon color to teal */
+    transition: color 0.3s ease, transform 0.3s ease; /* Smooth effect */
+}
+
+.socialLinks a:hover {
+    color: whitesmoke; /* Slightly darker teal on hover */
+    transform: scale(1.5); /* Slight zoom effect */
+}
