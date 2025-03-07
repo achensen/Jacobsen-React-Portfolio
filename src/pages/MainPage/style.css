@@ -2,3 +2,45 @@ main {
     min-height: calc(100vh - 190px);
     background-color: #333;
 }
+
+.mainContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center; /* Centers content vertically */
+    height: 80vh; /* Makes the container take up most of the screen height */
+    padding: 20px;
+    box-shadow: 30px;
+    border-color: hotpink;
+
+}
+
+.aboutSection {
+    display: flex;
+    align-items: center; 
+    max-width: 900px; 
+}
+
+.profileImage {
+    width: 300px; 
+    height: 300px;
+    border-radius: 50%; 
+    object-fit: cover;
+    margin-right: 200px; /* Adds space between image and text */
+    margin-left: 50px;
+    border-radius: 50px; 
+}
+
+.bioText {
+    max-width: 600px; /* Ensures text does not stretch too wide */
+    color: whitesmoke
+}
+
+.bioText h1 {
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+
+.bioText p {
+    font-size: 20px;
+    line-height: 1.5;
+}
