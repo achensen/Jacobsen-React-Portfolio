@@ -8,9 +8,8 @@ main {
     justify-content: center;
     align-items: center; /* Centers content vertically */
     height: 80vh; /* Makes the container take up most of the screen height */
-    padding: 20px;
-    box-shadow: 30px;
-    border-color: hotpink;
+    padding: 0;
+    
 
 }
 

@@ -10,7 +10,7 @@ const MainPage = () => {
         <div className="bioText">
           <h1>About Me</h1>
           <p>
-            Hi, I'm Erin and I have recently started by education in web develpoment with a Full Stack Course from EDX offered through UCF. Welcome to my portfolio!
+            Hi, I'm Erin and I have recently started my education in web develpoment with a Full Stack Course from EDX offered through UCF. Welcome to my portfolio!
           </p>
         </div>
       </div>
