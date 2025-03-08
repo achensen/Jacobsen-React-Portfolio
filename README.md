@@ -1,8 +1,38 @@
-# React + Vite
+# React Portfolio
+  ![license badge](https://img.shields.io/badge/license-MIT-blue)
+## Table of Contents
+* [Description](#description)
+* [License](#license)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Contributions](#contributions)
+* [Deployed Link](#deployed-link)
+* [Contact Information](#contact-information)
+* [Additional Notes](#additional-notes)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+This application shows my work in progress portfolio. I have completed the Main page, portfolio page , footer and navabr. I am going to go back and update the rest as I am able. 
 
-Currently, two official plugins are available:
+## License
+This project is licensed with MIT
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Installation 
+npm i
+
+## Usage
+First enter the city name you wish to know the weather for in the _Search for a City:_ section and click _Search_
+![City Search Input Field](/images/WD%20search%20for%20city.png)
+
+
+## Deployed Link
+
+## Contributions
+EDX Starter code, myself, with some tutoring assistance (see additional notes)
+
+## Contact Information
+My GitHub account is [GitHub Account Link](https://github.com/achensen)
+To email me you can contact me at erinrjacobsen@gmail.com
+
+
+## Additional Notes 
+ 
