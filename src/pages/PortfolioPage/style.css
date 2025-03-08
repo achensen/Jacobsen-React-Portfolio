@@ -1,0 +1,21 @@
+.portfolioContainer {
+    text-align: center;
+    padding: 40px;
+    background-color: #333;
+}
+
+.portfolioGrid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+    justify-content: center;
+    padding-top: 10px;
+}
+
+.portfolioContainer h2 {
+    font-size: 40px; 
+    font-weight: bold;
+    text-align: center;
+    color: whitesmoke;
+    margin-bottom: 30px;
+}
